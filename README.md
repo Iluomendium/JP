@@ -34,7 +34,7 @@ Przykładowy program C
 
 ## itd.
 
-<p>This is an <a href="http://example.com/" title="With a Title">
+<p>This is an <a href="http://wp.pl/" title="With a Title">
 example link</a>.</p>
 
 <p>I get 10 times more traffic from <a href="http://google.com/"
@@ -51,6 +51,9 @@ p>I strongly recommend against using any
 <p>I wish SmartyPants used named entities like
 <code>&amp;mdash;</code> instead of decimal-encoded
 entites like <code>&amp;#8212;</code>.</p>
+
+
+
 
 
 
