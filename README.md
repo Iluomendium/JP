@@ -53,6 +53,11 @@ p>I strongly recommend against using any
 entites like <code>&amp;#8212;</code>.</p>
 
 
+## mała motatka
+https://github.com/mathjax/mathjax  ciekawa strona
+
+
+
 
 
 
