@@ -24,10 +24,10 @@ Przykładowy program C
 
 <blockquote>
 
-  <p>This is a blockquote.</p>
+  <p>to jest blockquote.</p>
 
-  <p>This is the second paragraph in the blockquote.</p>
+  <p>To jesy 2 paragraf w blockquote.</p>
   
-  <h2>This is an H2 in a blockquote</h2>
+  <h2>To jest H2 w blockquote</h2>
 
 </blockquote>
